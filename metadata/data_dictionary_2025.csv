@@ -1,0 +1,11 @@
+Dataset_File,Column_Name,Data_Type,Description,Missing_Value_Convention
+summary_kpis_2025.csv,Indicator_Code,String,"Unique KPI identifier (KPI-xx, GRT-xx, ESC-xx)",N/A
+summary_kpis_2025.csv,Value,Numeric,Pure numeric value in IDR or Percent without symbols/separators,Blank = NOT_VERIFIED
+lra_budget_execution_2025.csv,Revised_Budget_Allocation,Numeric,Final revised APBN 2025 ceiling (Pagu Revisi),Blank = Not Disclosed
+lra_budget_execution_2025.csv,Actual_Realization,Numeric,Realized revenue or expenditure in IDR,Blank = Not Disclosed
+custodial_funds_monthly_2025.csv,Unaccounted_Variance,Numeric,Closing_Balance - (Bank_Balance + Safe_Balance),Blank = NOT_VERIFIED
+grants_master_register_2025.csv,Grant_Register_ID,String,Unique grant ID (MA-2025-GRANT-xxxx),N/A
+foreign_grants_2025.csv,Original_Currency_Value,Numeric,Grant value in AUD,N/A
+state_losses_tp_tgr_2025.csv,Outstanding_Amount_IDR,Numeric,Original_Amount_IDR - Recovered_Amount_IDR,0 = Fully Settled
+capex_reconciliation_2025.csv,Amount_IDR,Numeric,"KDP mutation amount (positive=addition, negative=reduction)",N/A
+financial_reconciliation_exceptions_2025.csv,Exception_ID,String,Unique audit exception ID (EXC-2025-xxx),N/A

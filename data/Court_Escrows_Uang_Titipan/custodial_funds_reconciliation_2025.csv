@@ -1,0 +1,2 @@
+Fiscal_Year,Reconciliation_Scope,Reported_Closing_Balance,Bank_Plus_Safe_Balance,Unaccounted_Variance,Calculated_Closing_Balance,Movement_Reconciliation_Variance,Verification_Status,Notes
+2025,MA_CONSOLIDATED_F41_DEC2025,5415706922385.04,5595756323260.59,-180049400875.55,,5486589953.40,RECONCILIATION_EXCEPTION,"Dec 2025 Bank+Safe exceeds Reported Closing by Rp 176,049,400,875.55 (driven by Biaya Konsinyasi Bank surplus Rp 175.72B & Buku Keuangan Niaga/Lainnya Rp 14.10B)"

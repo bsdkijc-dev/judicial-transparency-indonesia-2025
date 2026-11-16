@@ -1,0 +1,15 @@
+Fiscal_Year,Mutation_Code,Description,Amount_IDR,Mutation_Type,Source_Reference
+2025,KDP_OPENING,Saldo Awal KDP per 1 Januari 2025,475263059024,Opening Balance,Tabel 76 (CaLK p.84)
+2025,KDP_ADD_501,501 Saldo Awal TAYL (Proses Migrasi) - PN Painan,773610508,Addition,Tabel 76 (CaLK p.84)
+2025,KDP_ADD_502,502 Perolehan/Penambahan KDP (163 satkers),108044751521,Addition,Tabel 76 (CaLK p.84)
+2025,KDP_ADD_503,503 Pengembangan KDP (147 satkers),821942397372,Addition,Tabel 76 (CaLK p.84)
+2025,KDP_ADD_504,504 Koreksi Nilai KDP Bertambah (56 satkers),83328226657,Addition,Tabel 76 (CaLK p.84)
+2025,KDP_ADD_508,508 Hibah Masuk KDP (9 satkers),5491534879,Addition,Tabel 76 (CaLK p.84)
+2025,KDP_ADD_510,510 Perolehan Lainnya KDP (12 satkers),5448568509,Addition,Tabel 76 (CaLK p.84)
+2025,KDP_ADD_514,514 Reklasifikasi Masuk KDP (BUA & PA Donggala),4884962166,Addition,Tabel 76 (CaLK p.84)
+2025,KDP_SUB_505,505 Penghapusan/Penghentian Permanen KDP (7 satkers),-16243162147,Reduction,Tabel 76 (CaLK p.84)
+2025,KDP_SUB_513,513 Reklasifikasi Keluar KDP (BUA & PA Donggala),-4884962166,Reduction,Tabel 76 (CaLK p.84)
+2025,KDP_SUB_517,517 Koreksi Pencatatan KDP (52 satkers),-70388781774,Reduction,Tabel 76 (CaLK p.84)
+2025,KDP_SUB_564,564 Koreksi Nilai KDP Berkurang (20 satkers),-2721610242,Reduction,Tabel 76 (CaLK p.84)
+2025,KDP_SUB_599,599 Reklasifikasi KDP menjadi Barang Jadi (16 satkers),-1004262433794,Transfer to Fixed Assets,Tabel 76 (CaLK p.84)
+2025,KDP_CLOSING,Saldo KDP per 31 Desember 2025 (Audited),406676160513,Closing Balance,Tabel 76 (CaLK p.84) & Neraca p.xvi
