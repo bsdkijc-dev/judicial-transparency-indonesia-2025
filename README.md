@@ -6,3 +6,6 @@ Structured, auditable, Google Sheets-ready (UTF-8 CSV, pure numeric fields) and 
 - `reconciliation/` — `financial_reconciliation_exceptions_2025.csv` and domain reconciliation reports.
 - `reports/` — Executive audit summary, data quality assessment, and FY 2024–2025 comparability analysis.
 - `metadata/` — Data dictionary, source inventory, accounting framework, and verification protocol.
+
+## Licence
+Data: [CC BY 4.0](LICENSE). Code (scripts, notebooks, pipelines): [MIT](LICENSE-CODE). © 2026 Cecep Mustafa / Indonesian Judicial College (IJC) — ORCID 0000-0003-0037-497X.
