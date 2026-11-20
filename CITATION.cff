@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Judicial Transparency Indonesia: FY 2025 Mahkamah Agung RI Financial Reconciliation"
+authors:
+  - family-names: "Mustafa"
+    given-names: "Cecep"
+    orcid: "https://orcid.org/0000-0003-0037-497X"
+    affiliation: "Indonesian Judicial College (IJC)"
+abstract: "Tables extracted and reconciled from the audited FY2025 financial statements of the Supreme Court of Indonesia (Laporan Keuangan Mahkamah Agung RI 2025)."
+repository-code: "https://github.com/bsdkijc-dev/judicial-transparency-indonesia-2025"
+url: "https://www.kaggle.com/datasets/judicialcollege/mahkamah-agung-ri-financial-reconciliation-2025"
+license: CC-BY-4.0
+keywords: [Indonesia, Supreme Court, Mahkamah Agung, public finance, audit, open data]
